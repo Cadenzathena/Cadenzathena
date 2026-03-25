@@ -20,6 +20,7 @@ I'm a computer engineer based in Nigeria that loves video games, web development
 <br>
 
 ### Languages and tools
+<p>
 <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat"/>
 <img alt="CSS" src="https://img.shields.io/badge/CSS-663399?logo=CSS&logoColor=white&style=flat"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat"/>
@@ -31,6 +32,7 @@ I'm a computer engineer based in Nigeria that loves video games, web development
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2560FF?logo=docker&logoColor=white&style=flat"/>
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat"/>
 <img alt="Figma" src="https://img.shields.io/badge/Figma-10A958?logo=figma&logoColor=white&style=flat"/>
+</p>
 
 <br>
 
