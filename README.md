@@ -1,8 +1,8 @@
 <!-- I don't like GitHub markdown very much -->
 
-### Welcome to my profile page &ensp;&ensp; <img align="right" alt="spinning star" src="media/Star.png" height=30/>
+### $\mathrm{Welcome\ to\ my\ profile\ page}$ &nbsp; <sub><img alt="spinning star" src="media/Star.png" width=25></sub>
 
-<p align="center"><img alt="Kiki flying on a broom" src="media/kiki.jpeg"/></p>
+<img align="center" alt="Kiki flying on a broom" src="media/kiki.jpeg"/>
 
 <p align="right">
 Credit: <a href="https://x.com/tyc001x/status/1815361315348812080">@tyc001x</a>
@@ -17,9 +17,7 @@ I'm a computer engineer based in Nigeria that loves video games, web development
 <a href="https://yoolakbop.tumblr.com/?source=share"><img alt="Tumblr" src="https://img.shields.io/badge/Tumblr-1A2735?logo=tumblr&logoColor=white&style=flat"/></a>
 </p>
 
-<br>
-
-### Languages and tools
+### $\mathrm{Languages\ and\ tools}$
 <p>
 <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat"/>
 <img alt="CSS" src="https://img.shields.io/badge/CSS-663399?logo=CSS&logoColor=white&style=flat"/>
@@ -27,16 +25,17 @@ I'm a computer engineer based in Nigeria that loves video games, web development
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat"/>
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat"/>
 <img alt="Python" src="https://img.shields.io/badge/Python-FFDF76?logo=python&logoColor=black&style=flat"/>
+<img alt="Bash" src="https://img.shields.io/badge/Bash-005571?logo=gnubash&logoColor=white&style=flat"/>
 <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry Pi-A22846?logo=raspberrypi&logoColor=white&style=flat"/>
 <img alt="Linux" src="https://img.shields.io/badge/Linux-86BE43?logo=linux&logoColor=white&style=flat"/>
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2560FF?logo=docker&logoColor=white&style=flat"/>
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat"/>
 <img alt="Figma" src="https://img.shields.io/badge/Figma-10A958?logo=figma&logoColor=white&style=flat"/>
+<img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-7C3AED?logo=obsidian&logoColor=white&style=flat"/>
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat"/>
 </p>
 
-<br>
-
-### A few of my many favourite FOSS projects
+### $\mathrm{Some\ of\ my\ favourite\ FOSS\ projects}$
 - VERT
 - FluentFlyout
 - Cashew
@@ -45,3 +44,12 @@ I'm a computer engineer based in Nigeria that loves video games, web development
 - windhawk
 - Helium
 - ytdlp
+
+<table align="center">
+
+| hi &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| what | shoo |
+|---|---|---|
+| fuck | wow | man |
+| how | go | mean |
+
+</table>
