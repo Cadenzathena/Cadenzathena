@@ -1,26 +1,22 @@
 <!-- I don't like GitHub markdown very much -->
 
-<!-- <div id="toc">
+<div id="toc">
   <ul style="list-style: none">
     <summary>
       <h2>
         $\mathrm{Welcome\ to\ my\ profile\ page}$ <sub><img alt="spinning star" src="media/Star.png" width=25></sub>
       </h2>
+      <p align="center">
+        <img alt="Kiki flying on a broom" src="media/kiki.jpeg"/>
+      </p>
+      <p align="right">
+      <sup>Credit: <a href="https://x.com/tyc001x/status/1815361315348812080">@tyc001x</a></sup>
+      </p>
     </summary>
   </ul>
-</div> -->
+</div>
 
-<h2>
-$\mathrm{Welcome\ to\ my\ profile\ page}$ <sub><img alt="spinning star" src="media/Star.png" width=25></sub>
-</h2>
 
-<p align="center">
-  <img alt="Kiki flying on a broom" src="media/kiki.jpeg"/>
-</p>
-
-<p align="right">
-<sup>Credit: <a href="https://x.com/tyc001x/status/1815361315348812080">@tyc001x</a></sup>
-</p>
 
 I'm a computer engineer based in Nigeria that loves video games, web development, illustration, design, FOSS and learning new things. Thanks for visiting!
 
@@ -42,6 +38,7 @@ I'm a computer engineer based in Nigeria that loves video games, web development
     </summary>
   </ul>
 </div>
+
 <p>
 <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat"/>
 <img alt="CSS" src="https://img.shields.io/badge/CSS-663399?logo=CSS&logoColor=white&style=flat"/>
@@ -71,53 +68,11 @@ I'm a computer engineer based in Nigeria that loves video games, web development
   </ul>
 </div>
 
-<table>
-<tr>
-<!--THING 1 VERT-->
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="60">
-
-<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>VERT
-</td>
-
-<!--THING 2 FLUENTFLYOUT-->
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="60">
-
-<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>FluentFlyout
-</td>
-
-<!--THING 3 POWERTOYS-->
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="60">
-
-<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>PowerToys
-</td>
-
-</tr>
-<!-- ROW 2 -->
-<tr>
-<!--THING 4 HELIUM-->
-<br>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="60">
-
-<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>Helium
-</td>
-
-<!--THING 5 OBSIDIAN-->
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="60">
-
-<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>Obsidian
-</td>
-
-<!--THING 6 CASHEW-->
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="60">
-
-<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>Cashew
-</td>
-
-</tr>
-</table>
+- VERT
+- FluentFlyout
+- Cashew
+- Obsidian (honourable mention. It’s not open source but it is really neat!)
+- power toys
+- windhawk
+- Helium
+- ytdlp
