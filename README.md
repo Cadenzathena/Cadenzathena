@@ -3,9 +3,9 @@
 <div id="toc">
   <ul style="list-style: none">
     <summary>
-      <h2>
+      <h1>
         $\mathrm{Welcome\ to\ my\ profile\ page}$ <sub><img alt="spinning star" src="media/Star.png" width=25></sub>
-      </h2>
+      </h1>
       <p align="center">
         <img alt="Kiki flying on a broom" src="media/kiki.jpeg"/>
       </p>
@@ -32,9 +32,9 @@ I'm a computer engineer based in Nigeria that loves video games, web development
 <div id="toc">
   <ul style="list-style: none">
     <summary>
-      <h2>
+      <h1>
         $\mathrm{Languages\ and\ tools}$
-      </h2>
+      </h1>
     </summary>
   </ul>
 </div>
@@ -61,18 +61,60 @@ I'm a computer engineer based in Nigeria that loves video games, web development
 <div id="toc">
   <ul style="list-style: none">
     <summary>
-      <h2>
+      <h1>
         $\mathrm{Some\ of\ my\ favourite\ FOSS\ projects}$
-      </h2>
+      </h1>
     </summary>
   </ul>
 </div>
 
-- VERT
-- FluentFlyout
-- Cashew
-- Obsidian (honourable mention. It’s not open source but it is really neat!)
-- power toys
-- windhawk
-- Helium
-- ytdlp
+<table align="center">
+<tr>
+<!--THING 1 VERT-->
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="60">
+
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>VERT
+</td>
+
+<!--THING 2 FLUENTFLYOUT-->
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="60">
+
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>FluentFlyout
+</td>
+
+<!--THING 3 POWERTOYS-->
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="60">
+
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>PowerToys
+</td>
+
+</tr>
+<!-- ROW 2 -->
+<tr>
+<!--THING 4 HELIUM-->
+<br>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="60">
+
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>Helium
+</td>
+
+<!--THING 5 OBSIDIAN-->
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="60">
+
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>Obsidian
+</td>
+
+<!--THING 6 CASHEW-->
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="60">
+
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>Cashew
+</td>
+
+</tr>
+</table>
