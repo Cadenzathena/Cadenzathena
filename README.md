@@ -49,21 +49,24 @@ I'm a computer engineer based in Nigeria that loves video games, web development
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="60">
 
-<p>&emsp;&emsp;&emsp;&emsp;</p>VERT
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>
+VERT
 </td>
 
 <!--THING 2 FLUENTFLYOUT-->
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="60">
 
-<p>&emsp;&emsp;&emsp;&emsp;</p>FluentFlyout
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>
+FluentFlyout
 </td>
 
 <!--THING 3 POWERTOYS-->
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="60">
 
-<p>&emsp;&emsp;&emsp;&emsp;</p>PowerToys
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>
+PowerToys
 </td>
 
 </tr>
@@ -74,21 +77,21 @@ I'm a computer engineer based in Nigeria that loves video games, web development
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="60">
 
-<p>&emsp;&emsp;&emsp;&emsp;</p>Helium
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>Helium
 </td>
 
 <!--THING 5 OBSIDIAN-->
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="60">
 
-<p>&emsp;&emsp;&emsp;&emsp;</p>Obsidian
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>Obsidian
 </td>
 
 <!--THING 6 CASHEW-->
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="60">
 
-<p>&emsp;&emsp;&emsp;&emsp;</p>Cashew
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>Cashew
 </td>
 
 </tr>
