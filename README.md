@@ -1,11 +1,25 @@
 <!-- I don't like GitHub markdown very much -->
 
-### $\mathrm{Welcome\ to\ my\ profile\ page}$ &nbsp; <sub><img alt="spinning star" src="media/Star.png" width=25></sub>
+<!-- <div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h2>
+        $\mathrm{Welcome\ to\ my\ profile\ page}$ <sub><img alt="spinning star" src="media/Star.png" width=25></sub>
+      </h2>
+    </summary>
+  </ul>
+</div> -->
 
-<img align="center" alt="Kiki flying on a broom" src="media/kiki.jpeg"/>
+<h2>
+$\mathrm{Welcome\ to\ my\ profile\ page}$ <sub><img alt="spinning star" src="media/Star.png" width=25></sub>
+</h2>
+
+<p align="center">
+  <img alt="Kiki flying on a broom" src="media/kiki.jpeg"/>
+</p>
 
 <p align="right">
-Credit: <a href="https://x.com/tyc001x/status/1815361315348812080">@tyc001x</a>
+<sup>Credit: <a href="https://x.com/tyc001x/status/1815361315348812080">@tyc001x</a></sup>
 </p>
 
 I'm a computer engineer based in Nigeria that loves video games, web development, illustration, design, FOSS and learning new things. Thanks for visiting!
@@ -17,7 +31,17 @@ I'm a computer engineer based in Nigeria that loves video games, web development
 <a href="https://yoolakbop.tumblr.com/?source=share"><img alt="Tumblr" src="https://img.shields.io/badge/Tumblr-1A2735?logo=tumblr&logoColor=white&style=flat"/></a>
 </p>
 
-### $\mathrm{Languages\ and\ tools}$
+<br>
+
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h2>
+        $\mathrm{Languages\ and\ tools}$
+      </h2>
+    </summary>
+  </ul>
+</div>
 <p>
 <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat"/>
 <img alt="CSS" src="https://img.shields.io/badge/CSS-663399?logo=CSS&logoColor=white&style=flat"/>
@@ -35,21 +59,65 @@ I'm a computer engineer based in Nigeria that loves video games, web development
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat"/>
 </p>
 
-### $\mathrm{Some\ of\ my\ favourite\ FOSS\ projects}$
-- VERT
-- FluentFlyout
-- Cashew
-- Obsidian (honourable mention. It’s not open source but it is really neat!)
-- power toys
-- windhawk
-- Helium
-- ytdlp
+<br>
 
-<table align="center">
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h2>
+        $\mathrm{Some\ of\ my\ favourite\ FOSS\ projects}$
+      </h2>
+    </summary>
+  </ul>
+</div>
 
-| hi &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| what | shoo |
-|---|---|---|
-| fuck | wow | man |
-| how | go | mean |
+<table>
+<tr>
+<!--THING 1 VERT-->
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="60">
 
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>VERT
+</td>
+
+<!--THING 2 FLUENTFLYOUT-->
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="60">
+
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>FluentFlyout
+</td>
+
+<!--THING 3 POWERTOYS-->
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="60">
+
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>PowerToys
+</td>
+
+</tr>
+<!-- ROW 2 -->
+<tr>
+<!--THING 4 HELIUM-->
+<br>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="60">
+
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>Helium
+</td>
+
+<!--THING 5 OBSIDIAN-->
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="60">
+
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>Obsidian
+</td>
+
+<!--THING 6 CASHEW-->
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="60">
+
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>Cashew
+</td>
+
+</tr>
 </table>
