@@ -1,15 +1,18 @@
 <!-- I don't like GitHub markdown very much -->
+<p align="right">
+<sub>Credit: <a href="https://x.com/tyc001x/status/1815361315348812080">@tyc001x</a></sub>
+</p>
 
-<h3>
-  Welcome to my profile page <sub><img alt="spinning star" src="media/Star.png" width=25></sub>
-</h3>
 <p align="center">
   <img alt="Kiki flying on a broom" src="media/kiki.jpeg"/>
 </p>
-<p align="right">
-<sup>Credit: <a href="https://x.com/tyc001x/status/1815361315348812080">@tyc001x</a></sup>
 
-I'm a computer engineer based in Nigeria that loves video games, web development, illustration, design, FOSS and learning new things. Thanks for visiting!
+<h3>
+  Welcome to my profile page
+  <sub><img alt="spinning star" src="media/Star.png" width=25></sub>
+</h3>
+
+I'm a computer engineer based in Nigeria that loves video games, illustration, design, web-dev and FOSS. Appriciates simplicity and the most efficient way to solve problems. Currently taking foundations courses from [TOP](https://github.com/theodinproject). Thanks for visiting!
 
 <p align="center">
 <a href="mailto:dudeisnome@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-FF0000?logo=gmail&logoColor=white&style=flat"/></a>
