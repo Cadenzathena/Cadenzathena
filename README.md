@@ -1,11 +1,5 @@
 <!-- I don't like GitHub markdown very much -->
-<!-- <p align="right">
-<sub>Credit: <a href="https://x.com/tyc001x/status/1815361315348812080">@tyc001x</a></sub>
-</p> -->
-
-<p align="center">
-  <img alt="Kiki flying on a broom" src="media/kiki.jpeg"/>
-</p>
+<img alt="Kiki flying on a broom" src="media/kiki.jpeg"/>
 
 <h3>
   Welcome to my profile page
