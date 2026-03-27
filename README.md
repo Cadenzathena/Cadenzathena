@@ -1,7 +1,7 @@
 <!-- I don't like GitHub markdown very much -->
-<p align="right">
+<!-- <p align="right">
 <sub>Credit: <a href="https://x.com/tyc001x/status/1815361315348812080">@tyc001x</a></sub>
-</p>
+</p> -->
 
 <p align="center">
   <img alt="Kiki flying on a broom" src="media/kiki.jpeg"/>
@@ -12,7 +12,7 @@
   <sub><img alt="spinning star" src="media/Star.png" width=25></sub>
 </h3>
 
-I'm a computer engineer based in Nigeria that loves video games, illustration, design, web-dev and FOSS. Appriciates simplicity and the most efficient way to solve problems. Currently taking foundations courses from [TOP](https://github.com/theodinproject). Thanks for visiting!
+I'm a computer engineer based in Nigeria that loves video games, illustration, design, web-dev and FOSS. Appriciates simplicity and efficient ways to solve problems. Currently taking foundations courses from [TOP](https://github.com/theodinproject). Thanks for visiting! ❁ _Image credit: [@tyc001x](https://x.com/tyc001x/status/1815361315348812080)_
 
 <p align="center">
 <a href="mailto:dudeisnome@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-FF0000?logo=gmail&logoColor=white&style=flat"/></a>
@@ -52,8 +52,6 @@ I'm a computer engineer based in Nigeria that loves video games, illustration, d
 <table align="center">
 <tr>
 <td align="center" width="33%"> <!--THING 1 VERT-->
-
-&emsp;
   
 <img src="media/VERT_frame.png" width="80">
 
@@ -63,8 +61,6 @@ I'm a computer engineer based in Nigeria that loves video games, illustration, d
 
 </td>
 <td align="center" width="33%"> <!--THING 2 FLUENTFLYOUT-->
-
-&emsp;
   
 <img src="media/FluentFlyout_frame.png" width="80">
 
@@ -74,8 +70,6 @@ I'm a computer engineer based in Nigeria that loves video games, illustration, d
 
 </td>
 <td align="center" width="33%"> <!--THING 3 POWERTOYS-->
-
-&emsp;
   
 <img src="media/PowerToys_frame.png" width="80">
 
@@ -88,8 +82,6 @@ I'm a computer engineer based in Nigeria that loves video games, illustration, d
 <!-- ROW 2 -->
 <tr>
 <td align="center" width="33%"> <!--THING 4 HELIUM-->
-
-&emsp;
   
 <img src="media/Helium_frame.png" width="80">
 
@@ -99,8 +91,6 @@ I'm a computer engineer based in Nigeria that loves video games, illustration, d
 
 </td>
 <td align="center" width="33%"> <!--THING 5 OBSIDIAN-->
-
-&emsp;
   
 <img src="media/Obsidian_frame.png" width="80">
 
@@ -110,8 +100,6 @@ I'm a computer engineer based in Nigeria that loves video games, illustration, d
 
 </td>
 <td align="center" width="33%"> <!--THING 6 CASHEW-->
-
-&emsp;
   
 <img src="media/Cashew_frame.png" width="80">
 
