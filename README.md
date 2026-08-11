@@ -23,12 +23,11 @@ I'm a computer engineer based in Nigeria that loves video games, illustration, d
 <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat"/>
 <img alt="CSS" src="https://img.shields.io/badge/CSS-663399?logo=CSS&logoColor=white&style=flat"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat"/>
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white&style=flat"/>
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat"/>
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat"/>
 <img alt="Python" src="https://img.shields.io/badge/Python-FFDF76?logo=python&logoColor=black&style=flat"/>
-<img alt="Markdown" src="https://img.shields.io/badge/Markdown-1F1F1F?logo=markdown&logoColor=white&style=flat"/>
+<img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white&style=flat"/>
 <img alt="Bash" src="https://img.shields.io/badge/Bash-005571?logo=gnubash&logoColor=white&style=flat"/>
-<img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry Pi-A22846?logo=raspberrypi&logoColor=white&style=flat"/>
 <img alt="Linux" src="https://img.shields.io/badge/Linux-86BE43?logo=linux&logoColor=white&style=flat"/>
 <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D4?logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+Cjxzdmcgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDI0IDI0IiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbDpzcGFjZT0icHJlc2VydmUiIHhtbG5zOnNlcmlmPSJodHRwOi8vd3d3LnNlcmlmLmNvbS8iIHN0eWxlPSJmaWxsLXJ1bGU6ZXZlbm9kZDtjbGlwLXJ1bGU6ZXZlbm9kZDtzdHJva2UtbGluZWpvaW46cm91bmQ7c3Ryb2tlLW1pdGVybGltaXQ6MjsiPgogICAgPGcgdHJhbnNmb3JtPSJtYXRyaXgoMC4xMzAyNjgsMCwwLDAuMTMwMjY1LDAsMCkiPgogICAgICAgIDxwYXRoIGQ9Ik04Ny4zMjcsMEw4Ny4zMjcsODcuMzI3TDAsODcuMzI3TDAsMEw4Ny4zMjcsMFpNMTg0LjIzNSwwTDE4NC4yMzUsODcuMzI3TDk2LjkwOCw4Ny4zMjdMOTYuOTA4LDBMMTg0LjIzNSwwWk04Ny4zMjcsOTYuOTE2TDg3LjMyNywxODQuMjQzTDAsMTg0LjI0M0wwLDk2LjkxNkw4Ny4zMjcsOTYuOTE2Wk0xODQuMjM1LDk2LjkxNkwxODQuMjM1LDE4NC4yNDNMOTYuOTA4LDE4NC4yNDNMOTYuOTA4LDk2LjkxNkwxODQuMjM1LDk2LjkxNloiIHN0eWxlPSJmaWxsOndoaXRlOyIvPgogICAgPC9nPgo8L3N2Zz4K&logoColor=white&style=flat"/>
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2560FF?logo=docker&logoColor=white&style=flat"/>
