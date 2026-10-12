@@ -5,7 +5,7 @@
   <sub><img alt="spinning star" src="media/Star.png" width=25></sub>
 </h3>
 
-I'm a computer engineer based in Nigeria that loves video games, illustration, design, web-dev and FOSS. Appriciates simplicity and efficient ways to solve problems. Currently taking foundations courses from [TOP](https://github.com/theodinproject). Thanks for visiting! ❁ _Image credit: [@tyc001x](https://x.com/tyc001x/status/1815361315348812080)_
+I'm a computer engineer based in Nigeria that loves video games, illustration, design, web-dev and FOSS. Appriciates simplicity and efficient ways to solve problems. Thanks for visiting! ❁ _Image credit: [@tyc001x](https://x.com/tyc001x/status/1815361315348812080)_
 
 <p align="center">
 <a href="mailto:dudeisnome@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-FF0000?logo=gmail&logoColor=white&style=flat"/></a>
